@@ -9,7 +9,7 @@ const typeDefs = `
 
 const resolvers = {
   Query: {
-    greeting: () => "Hello world",
+    greeting: () => "Hello Graphql example",
   },
 };
 
